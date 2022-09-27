@@ -1,0 +1,5 @@
+<?php
+
+$values = "";
+
+echo $values;
